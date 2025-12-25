@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:AutoClickMac}",
+            "name": "Debug AutoClickMac",
+            "target": "AutoClickMac",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug AutoClickMac"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:AutoClickMac}",
+            "name": "Release AutoClickMac",
+            "target": "AutoClickMac",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release AutoClickMac"
+        }
+    ]
+}
