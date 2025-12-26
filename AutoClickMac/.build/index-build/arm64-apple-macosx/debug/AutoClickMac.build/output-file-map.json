@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/master.swiftdeps"
+  },
+  "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/Sources/AutoClickMac/AutoClickMacApp.swift": {
+    "dependencies": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClickMacApp.d",
+    "object": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClickMacApp.swift.o",
+    "swiftmodule": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClickMacApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClickMacApp.swiftdeps",
+    "diagnostics": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClickMacApp.dia"
+  },
+  "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/Sources/AutoClickMac/AutoClicker.swift": {
+    "dependencies": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClicker.d",
+    "object": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClicker.swift.o",
+    "swiftmodule": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClicker~partial.swiftmodule",
+    "swift-dependencies": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClicker.swiftdeps",
+    "diagnostics": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/AutoClicker.dia"
+  },
+  "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/Sources/AutoClickMac/ContentView.swift": {
+    "dependencies": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/ContentView.d",
+    "object": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/ContentView.swift.o",
+    "swiftmodule": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/aaravgoyal/Downloads/GitHub/AutoClickerApp/AutoClickMac/.build/index-build/arm64-apple-macosx/debug/AutoClickMac.build/ContentView.dia"
+  }
+}
