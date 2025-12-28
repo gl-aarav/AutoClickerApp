@@ -6,4 +6,4 @@ AutoClickerApp is a macOS application designed to automate mouse clicks. This ap
 Aarav Goyal
 
 ## Download
-Visit the [Releases](https://github.com/your-repo/AutoClickerApp/releases) tab to download the latest version.
+Visit the [Releases](https://github.com/gl-aarav/AutoClickerApp/releases) tab to download the latest version.
